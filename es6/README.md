@@ -790,10 +790,6 @@
            console.log(error);
         });
     ```
-    
-    ![PromiseResolved](../assets/PromiseResolved.gif)
-
-    ![PromiseResolved](../assets/PromiseRejected.gif)
 
 
 21. ### Reflect
