@@ -12,6 +12,8 @@ Ecma international releases standard specifications from time to time. JavaScrip
 more mature and robust scripting language with various input and output methods which developers can in turn use to 
 build various applications.
 
+### Maturity Stages of ECMAScript
+
 Each proposal for an ECMAScript feature goes through the following maturity stages (TC39 Maturity Stages):
 
 - **Stage 0: Strawman**  -> Idea under discussion; Very highly likely to change or be dropped
@@ -23,7 +25,7 @@ Each proposal for an ECMAScript feature goes through the following maturity stag
 - **Stage 4: Finished**  -> The proposal is ready to be included in the standard 
 
 
-## List of Version from ES:
+### List of Version from ES:
 
 Till date, ES has published 11 versions and the latest one (11th version) was published in the year 
 
