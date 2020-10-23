@@ -16,13 +16,13 @@ build various applications.
 
 Each proposal for an ECMAScript feature goes through the following maturity stages (TC39 Maturity Stages):
 
-- **Stage 0: Strawman**  -> Idea under discussion; Very highly likely to change or be dropped
-- **Stage 1: Proposal**  -> Initial draft for a formal proposal; Much likely could change or it could be dropped
-- **Stage 2: Draft**     -> First version of what will be in the specification; more likely to be included in standards, 
-  but changes can occur 
-- **Stage 3: Candidate** -> Proposal is done, and needs feedback from implementations and users to continue; 
- only harsh critical feedback can cause changes
-- **Stage 4: Finished**  -> The proposal is ready to be included in the standard 
+|     | Stage Name| Stage Process       |
+| --- | --------- | --------- |
+| Stage 0| **Strawman**  | Idea under discussion; Very highly likely to change or be dropped |
+| Stage 1| **Proposal**  | Initial draft for a formal proposal; Much likely could change or it could be dropped |
+| Stage 2| **Draft**  | First version of what will be in the specification; more likely to be included in standards, but changes can occur  |
+| Stage 3| **Candidate**  | Proposal is done, and needs feedback from implementations and users to continue; only harsh critical feedback can cause changes |
+| Stage 4| **Finished**  | The proposal is ready to be included in the standard  |
 
 
 ### List of Version from ES:
