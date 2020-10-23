@@ -25,7 +25,7 @@ Each proposal for an ECMAScript feature goes through the following maturity stag
 
 ## List of Version from ES:
 
-Till date, ES has published nine versions and the latest one (9th version) was published in the year 2018.
+Till date, ES has published 11 versions and the latest one (11th version) was published in the year 
 
 - ES1 1997
 - ES2 1998
@@ -37,19 +37,19 @@ Till date, ES has published nine versions and the latest one (9th version) was p
 - ES8 2017
 - ES9 2018
 - ES10 2019
-- ES11 2020
+- ES11 
 
 ECMA Script's first three versions- ES1, ES2, ES3 were yearly updates whereas, ES4 was never released due to political 
 disagreements. After a decade, ES5 was eventually released with several additions in 2009; post that ECMAScript became 
 active again.
 
 #### Version History of ES Releases
-| Edition | Date |
-| --- | --------- |
-| ES2015 Or ES6  | June 2015 |
-| ES2016 Or ES7  | June 2016 |
-| ES2017 Or ES8  | June 2017 |
-| ES2018 Or ES9  | June 2018 |
-| ES2019 Or ES10  | June 2019 |
-| ES2020 Or ES11  | June 2020 |
+| Edition | Date | Explore  |
+| --- | --------- | --------- |
+| [ES2015 Or ES6]()  | June 2015 | [Code Snippet]()  |
+| [ES2016 Or ES7]()  | June 2016 | [Code Snippet]()  |
+| [ES2017 Or ES8]()  | June 2017 | [Code Snippet]()  |
+| [ES2018 Or ES9]()  | June 2018 | [Code Snippet]()  |
+| [ES2019 Or ES10]()  | June 2019 | [Code Snippet]()  |
+| [ES2020 Or ES11]()  | June 2020 | [Code Snippet]()  |
 
