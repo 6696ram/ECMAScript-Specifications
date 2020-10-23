@@ -771,7 +771,7 @@
 
     A promise is an object which represent the eventual completion or failure of an asynchronous operation.
 
-    ![Promise](assets/promise.png)
+    ![Promise](../assets/promise.png)
 
     It is in one of these states:
 
