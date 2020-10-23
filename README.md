@@ -48,7 +48,7 @@ active again.
 #### Version History of ES Releases
 | Edition | Date | Explore  |
 | --- | --------- | --------- |
-| [ES2015 Or ES6]()  | June 2015 | [Code Snippet]()  |
+| [ES2015 Or ES6](es6/README.md)  | June 2015 | [Code Snippet]()  |
 | [ES2016 Or ES7]()  | June 2016 | [Code Snippet]()  |
 | [ES2017 Or ES8]()  | June 2017 | [Code Snippet]()  |
 | [ES2018 Or ES9]()  | June 2018 | [Code Snippet]()  |
