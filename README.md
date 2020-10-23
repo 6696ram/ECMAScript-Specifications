@@ -42,6 +42,7 @@ Till date, ES has published nine versions and the latest one (9th version) was p
 ECMA Script's first three versions- ES1, ES2, ES3 were yearly updates whereas, ES4 was never released due to political 
 disagreements. After a decade, ES5 was eventually released with several additions in 2009; post that ECMAScript became 
 active again.
+
 #### Version History of ES Releases
 | Edition | Date |
 | --- | --------- |
