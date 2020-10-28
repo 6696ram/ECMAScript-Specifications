@@ -785,10 +785,10 @@
     - .catch(): Gets called after a promise rejected. 
     - .finally(): Always gets called, whether the promise resolved or rejected.
     
-    The .then method receives the value passed to the resolve method.
+    **The .then method receives the value passed to the resolve method.**
     ![PromiseResolved](../assets/PromiseResolved.gif)
     
-    The .catch method receives the value passed to the rejected method
+    **The .catch method receives the value passed to the rejected method**
     ![PromiseResolved](../assets/PromiseRejected.gif)
 
 
