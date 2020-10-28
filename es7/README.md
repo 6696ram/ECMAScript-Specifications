@@ -1,4 +1,4 @@
-## ES2015 Or ES6
+## ES2016 Or ES7
 
 ### **Table of Contents**
 | No. | Feature |
