@@ -12,8 +12,6 @@
 |7  | [Trailing commas](#trailing-commas) |
 
 
-## ES2017 Or ES8
-
 1. ### Async functions
 
    In ES6, Promises were introduced to solve the famous callback hell problem. When a series of nested asynchronous functions need to be executed in order, it leads to a callback hell

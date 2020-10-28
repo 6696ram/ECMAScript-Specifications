@@ -54,7 +54,7 @@ active again with release of ES6 in 2015.
 | [ES2015 Or ES6](es6/README.md)  | June 2015 | [Code Snippet]()  |
 | [ES2016 Or ES7](es7/README.md)  | June 2016 | [Code Snippet]()  |
 | [ES2017 Or ES8](es8/README.md)  | June 2017 | [Code Snippet]()  |
-| [ES2018 Or ES9]()  | June 2018 | [Code Snippet]()  |
+| [ES2018 Or ES9](es9/README.md)  | June 2018 | [Code Snippet]()  |
 | [ES2019 Or ES10]()  | June 2019 | [Code Snippet]()  |
 | [ES2020 Or ES11]()  | June 2020 | [Code Snippet]()  |
 
